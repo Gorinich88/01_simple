@@ -2,7 +2,7 @@ body {
   background-color:#ffffff;
 }
 .header {
-  margin-left: 295px;
+  margin-left: 288px;
   width: 759px;
   height: 40px;
   background-color: #BB2222;
@@ -17,10 +17,13 @@ h1 {
   padding: 20px 20px;
 }
 .text {
-  margin-left: 295px;
+  margin-left: 288px;
   width: 759px;
   font-size: 18px;
   color: #0a0a0a;
+}
+a {
+  text-decoration: none;
 }
 .cars {
   display: flex;
@@ -29,6 +32,23 @@ h1 {
 }
 li {
   border-style: dashed;
+}
+.text2 {
+  margin-left: 288px;
+  width: 759px;
+  font-size: 18px;
+  color: #0a0a0a;
+}
+.footer {
+  margin-left: 288px;
+  width: 759px;
+  height: 25px;
+  background-color: #000000;
+  text-align: center;
+}
+h3 {
+  color: #ffffff;
+  font-size: 20px;
 }
 
 
