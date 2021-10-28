@@ -2,10 +2,17 @@ body {
   background-color:#ffffff;
 }
 .header {
-  padding: 5px 600px;
+  margin-left: 295px;
+  width: 759px;
+  height: 40px;
   background-color: #BB2222;
+  text-align: center;
 }
 h1 {
   color: #ffffff;
-
+}
+.sunset {
+  display: flex;
+  justify-content: center;
+  padding: 20px 20px;
 }
